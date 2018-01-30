@@ -1,0 +1,45 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+<channel>
+<name>Live TV</name>
+<thumbnail>https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX22082484.jpg</thumbnail>
+<externallink>https://goo.gl/bBGv4f</externallink>
+<fanart>https://superrepo.org/static/images/fanart/original/plugin.video.LiveTV.jpg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Islamic Kids TV</name>
+<thumbnail>https://thumb7.shutterstock.com/display_pic_with_logo/174011636/661768639/stock-vector-two-muslim-and-muslimah-cute-kids-islamic-smile-and-happy-vector-illustration-661768639.jpg</thumbnail>
+<externallink>https://goo.gl/FJLL8h</externallink>
+<fanart></fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Quran recitations</name>
+<thumbnail> https://png.icons8.com/metro/1600/koran.png </thumbnail>
+<externallink>https://goo.gl/rWPpFK</externallink>
+<fanart>https://images.pond5.com/quran-pages-and-islam-footage-000909974_prevstill.jpeg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Education</name>
+<thumbnail>https://image.freepik.com/free-icon/students-cap_318-62709.jpg</thumbnail>
+<externallink>https://goo.gl/FgrZUA</externallink>
+<fanart>http://s3.amazonaws.com/digitaltrends-uploads-prod/2016/09/group-of-school-kids-with-teacher-sitting-in-classroom-and-raising-hands.jpg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Youtube</name>
+<thumbnail>https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png</thumbnail>
+<externallink>https://goo.gl/ZEPs9G</externallink>
+<fanart>https://i.ytimg.com/vi/OZIMVPCa3F8/maxresdefault.jpg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>

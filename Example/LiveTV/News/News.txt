@@ -1,0 +1,27 @@
+<item>
+<title>Al Jazeera News</title>
+<utube>nVHt1_SWTZg</utube>
+<thumbnail>https://yt3.ggpht.com/a-/AK162_58eLG_k9ulNzolNjC5AZdTRlsmZ1zdjiwBWA=s900-mo-c-c0xffffffff-rj-k-no</thumbnail>
+<fanart>http://www.aljazeera.com/mritems/Images/2014/10/26/beefc69a4b0d4b6aac13938ee98f0103_18.jpg</fanart>
+</item>
+
+<item>
+<title>Sky News</title>
+<utube>XOacA3RYrXk</utube>
+<thumbnail>https://pbs.twimg.com/profile_images/953341660813021185/o2IGXWqj_400x400.jpg</thumbnail>
+<fanart>https://e3.365dm.com/16/07/1600x900/cc3285001a9755f21dfa93b8e69bf3b0b257cbb9c2ddb3eee04d17156e4758b6_3739039.jpg?20170321214350</fanart>
+</item>
+
+<item>
+<title>Fox News</title>
+<utube>1KWmbmh1soI</utube>
+<thumbnail>https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=10156062926761336</thumbnail>
+<fanart>http://global.fncstatic.com/static/orion/styles/img/fox-news/og/og-fox-news.png</fanart>
+</item>
+
+<item>
+<title>Bloomberg News</title>
+<utube>Ga3maNZ0x0w</utube>
+<thumbnail>https://static.cision.com/us/wp-content/uploads/2014/06/Bloomberg-News.png</thumbnail>
+<fanart>https://www.bloomberg.com/graphics/2015-bertha/img/lede-01.jpg</fanart>
+</item>

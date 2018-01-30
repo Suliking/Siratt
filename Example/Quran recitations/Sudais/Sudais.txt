@@ -1,0 +1,6 @@
+<item>
+<title>Surah Baqarah</title>
+<utube>wWPEGb3l8J0</utube>
+<thumbnail>https://previews.123rf.com/images/duug/duug1206/duug120600003/13966994-sport-logo.jpg</thumbnail>
+<fanart>https://icc-static-files.s3.amazonaws.com/ICC/photo/2017/01/30/44780aa2-2b6d-4048-897c-6606762b3d38/GettyImages-463485384_Cropped.jpg</fanart>
+</item>

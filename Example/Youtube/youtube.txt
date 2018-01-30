@@ -1,0 +1,13 @@
+<item>
+<title>How to use the Siratt Box</title>
+<utube>W0xqyL0XxAo&t=232s</utube>
+<thumbnail>http://www.pfpenergy.co.uk/media/1184/help-and-support.png</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>Tofayel Live</title>
+<link>https://www.youtube.com/user/tofayelchy/live</link>
+<thumbnail>http://www.pfpenergy.co.uk/media/1184/help-and-support.png</thumbnail>
+<fanart></fanart>
+</item>

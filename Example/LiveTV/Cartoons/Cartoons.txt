@@ -1,0 +1,15 @@
+<item>
+<title>Cartoon Network </title>
+<link>http://putchannel.com/live-television/live-cartoon-network/</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png</thumbnail>
+<fanart>https://953dbb3e023d8d2081dc-a6ac47d7e9972b6bed5824eadfd0b772.ssl.cf3.rackcdn.com/wp-content/uploads/2017/12/cartoon-network-90s-cartoons.jpg</fanart>
+</item>
+
+<item>
+<title>Dragonball episodes </title>
+<link>http://putchannel.com/live-television/live-dragon-ball-full-episodes/</link>
+<thumbnail>https://vignette.wikia.nocookie.net/dragonball/images/8/8d/Dragon_Ball_Z_logo.png/revision/latest?cb=20131001023201</thumbnail>
+<fanart>https://953dbb3e023d8d2081dc-a6ac47d7e9972b6bed5824eadfd0b772.ssl.cf3.rackcdn.com/wp-content/uploads/2017/12/cartoon-network-90s-cartoons.jpg</fanart>
+</item>
+
+

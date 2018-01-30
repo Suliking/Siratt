@@ -1,0 +1,30 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels>
+
+<channel>
+<name>Maher</name>
+<thumbnail> https://png.icons8.com/metro/1600/koran.png </thumbnail>
+<externallink>https://goo.gl/GPXpsq</externallink>
+<fanart>https://images.pond5.com/quran-pages-and-islam-footage-000909974_prevstill.jpeg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Mishary</name>
+<thumbnail> https://png.icons8.com/metro/1600/koran.png </thumbnail>
+<externallink>https://goo.gl/3XdQTy</externallink>
+<fanart>https://images.pond5.com/quran-pages-and-islam-footage-000909974_prevstill.jpeg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+<channel>
+<name>Sudais</name>
+<thumbnail> https://png.icons8.com/metro/1600/koran.png </thumbnail>
+<externallink>https://goo.gl/U57pvL</externallink>
+<fanart>https://images.pond5.com/quran-pages-and-islam-footage-000909974_prevstill.jpeg</fanart>
+<info>SimpleKore.com</info>
+</channel>
+
+</channels>

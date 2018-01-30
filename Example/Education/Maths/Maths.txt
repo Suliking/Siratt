@@ -1,0 +1,13 @@
+<item>
+<title>The last prophet</title>
+<link>http://www.alluc.ee/embed/id%3Aij6tslfb?alt=Muhammad.The.Last.Prophet.DVDRip.Xvid.avi.mp4</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/Muhammad_movie_poster.jpg/220px-Muhammad_movie_poster.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/wQUTk2-BESQ/maxresdefault.jpg</fanart>
+</item>
+
+<item>
+<title>The Message</title>
+<link>https://vidzi.tv/4fkv0m0da3im.html#close</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjE0OTY0ODk2MF5BMl5BanBnXkFtZTcwNjQ5NjIzMQ@@._V1_.jpg</thumbnail>
+<fanart>http://www.dailystar.com.lb/dailystar/Pictures/2017/05/13/613935_img650x420_img650x420_crop.jpg</fanart>
+</item>

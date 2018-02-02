@@ -15,7 +15,7 @@ function get_data($url) {
     curl_close($ch);
     return $data;
 }
-$string = get_data('https://www.youtube.com/user/tofayelchy/live' . $channelid);
+$string = get_data('https://www.youtube.com/user/AlJazeeraEnglish/live' . $channelid);
 preg_match_all('/(hlsvp.*m3u8)/',$string,$matches, PREG_PATTERN_ORDER);
 $var1=$matches[1][0];
 $var1 = substr($var1, 8);

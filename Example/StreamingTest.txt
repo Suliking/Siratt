@@ -1,0 +1,18 @@
+#EXTINF:-1,UK | AMC
+http://disfruta.club:8000/live/trueno/trueno/3879.ts
+#EXTINF:-1,UK | Animal Planet
+http://disfruta.club:8000/live/trueno/trueno/3878.ts
+#EXTINF:-1,UK | B0xn4t1on
+http://disfruta.club:8000/live/trueno/trueno/3874.ts
+#EXTINF:-1,UK | Baby TV
+http://disfruta.club:8000/live/trueno/trueno/3877.ts
+#EXTINF:-1,UK | BBC 1
+http://disfruta.club:8000/live/trueno/trueno/3876.ts
+#EXTINF:-1,UK | BBC 2
+http://disfruta.club:8000/live/trueno/trueno/3875.ts
+#EXTINF:-1,UK | BeTe Sp0rt 1 HD
+http://disfruta.club:8000/live/trueno/trueno/3873.ts
+#EXTINF:-1,UK | BeTe Sp0rt 2 HD
+http://disfruta.club:8000/live/trueno/trueno/3872.ts
+#EXTINF:-1,UK | BeTe Sp0rt 3 HD
+http://disfruta.club:8000/live/trueno/trueno/3871.ts
